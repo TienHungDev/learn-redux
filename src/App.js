@@ -11,6 +11,7 @@ function App() {
                 <p style={{ margin: "1rem" }}>{counter}</p>
                 <button onClick={() => dispatch(inc())}> Add + 1 </button>
                 <div>test commit 123</div>
+                <div>Hung test</div>
             </div>
         </div>
     );
